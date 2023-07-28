@@ -5,7 +5,7 @@
   "theory": "theory.md",
   "homework": "homework.md",
   "code": [
-    "code/lesson_03/src/AugabeStringJava.java","code/lesson_03/src/AufgabeStringFormat.java"
+    "code/lesson_05/src/AugabeStringJava.java","code/lesson_05/src/AufgabeStringFormat.java"
   ],
   "video": ""
 }
