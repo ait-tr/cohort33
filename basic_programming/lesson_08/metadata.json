@@ -1,0 +1,11 @@
+{
+  "topic": "Loops in Java. Exercises",
+  "date": "2023-08-03",
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/lesson_08/src/AufgabeJavaDoWhile.java"
+  ],
+  "video": ""
+}
