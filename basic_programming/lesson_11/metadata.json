@@ -1,0 +1,11 @@
+{
+  "topic": "Arrays in Java. Exercises",
+  "date": "2023-08-11",
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/lesson_11/src/"
+  ],
+  "video": ""
+}
