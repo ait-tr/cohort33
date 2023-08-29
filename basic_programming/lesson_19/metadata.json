@@ -1,0 +1,11 @@
+{
+  "topic": "Methods in Java. Exercises",
+  "date": "2023-08-26",
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/lesson_19/src/Studentmanager.java", "code/lesson_19/src/Student.java"
+  ],
+  "video": ""
+}
