@@ -1,0 +1,11 @@
+{
+  "topic": "OOP in Java. Exercises",
+  "date": "2023-09-07",
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/lesson_21/src/Animal.java", "code/lesson_21/src/Bulldog.java","code/lesson_21/src/Dachshund.java","code/lesson_21/src/Dog.java"
+  ],
+  "video": ""
+}
