@@ -1,0 +1,11 @@
+{
+  "topic": "OOP in Java. Exercises",
+  "date": "2023-09-10",
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/lesson_23/src/MusicalInstrument.java", "code/lesson_23/src/MusicalInstrumentTest.java","code/lesson_23/src/StringInstrument.java","code/lesson_23/src/WindInstrument.java"
+  ],
+  "video": ""
+}
