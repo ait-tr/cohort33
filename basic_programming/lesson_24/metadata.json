@@ -1,0 +1,11 @@
+{
+  "topic": "OOP in Java. Exercises",
+  "date": "2023-09-12",
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/lesson_24/src/Addition.java", "code/lesson_24/src/Animal.java","code/lesson_24/src/Cat.java","code/lesson_24/src/Division.java","code/lesson_24/src/Dog.java", "code/lesson_24/src/Multiplication.java", "code/lesson_24/src/Operation.java", "code/lesson_24/src/Subtraction.java", "code/lesson_24/src/TestAnimals.java", "code/lesson_24/src/TestOperation.java" 
+  ],
+  "video": ""
+}
