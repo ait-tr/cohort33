@@ -1,0 +1,11 @@
+{
+  "topic": "OOP in Java. Интерфейсы",
+  "date": "2023-09-16",
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/lesson_26/src/Animal.java", "code/lesson_26/src/Dog.java","code/lesson_26/src/TestAnimal.java" 
+  ],
+  "video": ""
+}
