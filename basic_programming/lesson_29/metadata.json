@@ -1,0 +1,11 @@
+{
+  "topic": "OOP in Java. Полиморфизм",
+  "date": "2023-09-19",
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/lesson_27/src/Animal.java", "code/lesson_27/src/Dog.java","code/lesson_27/src/TestAnimal.java" 
+  ],
+  "video": ""
+}
