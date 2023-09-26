@@ -1,0 +1,11 @@
+{
+  "topic": "OOP in Java. Абстракция",
+  "date": "2023-09-26",
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/lesson_27/src/Animal.java", "code/lesson_27/src/Dog.java","code/lesson_27/src/TestAnimal.java" 
+  ],
+  "video": ""
+}
