@@ -1,0 +1,11 @@
+{
+  "topic": "OOP in Java. Заключение",
+  "date": "2023-10-07",
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/lesson_35/src/CalculatorSim.java", "code/lesson_35/src/CalculatorSimTest.java"
+  ],
+  "video": ""
+}
