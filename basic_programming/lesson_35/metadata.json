@@ -1,11 +1,11 @@
 {
-  "topic": "OOP in Java. Заключение",
-  "date": "2023-10-07",
+  "topic": "Unit-тестирование в java",
+  "date": "2023-10-10",
   "plan": "plan.md",
   "theory": "theory.md",
   "homework": "homework.md",
   "code": [
-    "code/lesson_35/src/CalculatorSim.java", "code/lesson_35/src/CalculatorSimTest.java"
+    "code/lesson_35/src/CalculatorSim.java", "code/lesson_35/src/CalculatorSimTest.java", "code/lesson_35/src/Book.java", "code/lesson_35/src/BookManager.java"
   ],
   "video": ""
 }
