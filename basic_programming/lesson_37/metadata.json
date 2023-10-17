@@ -1,0 +1,11 @@
+{
+  "topic": "Unit-тестирование в java. Заключение.",
+  "date": "2023-10-17",
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/lesson_37/src/CalculatorSim.java", "code/lesson_37/src/CalculatorSimTest.java"
+  ],
+  "video": ""
+}
