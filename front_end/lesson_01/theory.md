@@ -1,5 +1,5 @@
 ### HTML basics: tags, elements.
-Ссылка на презентацию: [HTML core](https://github.com/ait-tr/cohort22/blob/main/front_end/lesson_01/HTML_tags_tables.pdf)
+Ссылка на презентацию: [HTML core](https://github.com/ait-tr/cohort33/blob/main/front_end/lesson_01/HTML_tags_tables.pdf)
 
 ### Одиночные HTML-теги
 
