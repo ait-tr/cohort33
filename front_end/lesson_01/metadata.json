@@ -3,9 +3,7 @@
   "theory": "theory.md",
   "homework": "homework.md",
   "code": [
-    "/code/lesson2/styles.css",
-    "/code/lesson2/index.html",
-    "/code/homework/index.html"
+    "./code/index.html"
   ],
   "video": "",
   "etc": ""
