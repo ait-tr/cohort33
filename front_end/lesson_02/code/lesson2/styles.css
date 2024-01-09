@@ -1,0 +1,31 @@
+/* color - меняет цвет шрифта
+background-color - меняет цвет фона
+height - задает высоту 
+width - задает ширину
+font-weight - меняет жирность шрифта
+font-size - меняет размер шрифта */
+
+.johny-depp {
+  color: black;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+h5,
+h3 {
+  color: green;
+}
+
+.page-container {
+  width: 100%;
+  height: 100%;
+  background-color: antiquewhite;
+}
+
+.main-text {
+  font-weight: bold;
+  font-size: 20px;
+}
