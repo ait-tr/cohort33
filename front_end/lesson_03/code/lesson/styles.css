@@ -1,0 +1,53 @@
+html,
+body {
+  height: 100%;
+}
+
+/* Добавление стилей через тег */
+p {
+  font-size: 26px;
+  color: blue !important;
+  font-weight: bold;
+}
+
+/* Добавление стилей через класс .someclass */
+.summary-text {
+  color: aqua;
+}
+
+.cards-phrase {
+  color: red;
+}
+
+/* Лобавление стилей через id */
+#actors-id {
+  color: blueviolet;
+}
+
+/* Еще один способ по атрибуту */
+[class] {
+  font-size: 20px;
+}
+
+/* Все свойства записанные через * применятся ко всем HTML элементам */
+* {
+  width: 100%;
+  color: brown;
+  box-sizing: border-box;
+}
+
+.hello-world {
+  width: fit-content;
+  /* border: 1px solid black; */
+  border-width: 1px;
+  border-color: black;
+  border-style: dashed;
+  /* padding - внутренние отступы
+  - одно значение - 10px - значит, что 10px примениться ко всем направлениям(top, bottom, left, right)
+  */
+  /* padding: 10px 20px; */
+  padding-top: 10px;
+  padding-left: 10px;
+  margin: 100px;
+  box-sizing: border-box;
+}

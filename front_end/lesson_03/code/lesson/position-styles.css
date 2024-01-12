@@ -1,0 +1,48 @@
+* {
+  box-sizing: border-box;
+  color: white;
+  font-size: 20px;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  position: relative;
+  width: 500px;
+  height: 700px;
+  background: #f299d2;
+}
+
+.container-header {
+  width: 100%;
+  height: 300px;
+  background: #f24147;
+}
+
+.element-1 {
+  top: 0;
+  position: sticky;
+  width: 100px;
+  height: 100px;
+  background: #ca41f2;
+  margin: 10px;
+}
+
+.element-2 {
+  bottom: 30px;
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  background: #f241d2;
+  margin: 10px;
+}
+
+.element-3 {
+  width: 400px;
+  height: 1000px;
+  background: #9041f2;
+  margin: 10px;
+}
