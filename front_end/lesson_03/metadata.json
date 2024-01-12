@@ -4,7 +4,7 @@
   "homework": "homework.md",
   "code": [
     "./code/homework/index.html",
-    "./code/homework/styles.html",
+    "./code/homework/styles.css",
     "/code/lesson/styles.css",
     "/code/lesson/index.html",
     "/code/lesson/position-styles.css",
