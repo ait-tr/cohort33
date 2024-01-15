@@ -1,0 +1,81 @@
+* {
+  box-sizing: border-box;
+}
+
+body,
+html {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.page-wrapper {
+    min-height: 100%;
+}
+
+h1,
+h5 {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  z-index: 2;
+  position: fixed;
+  color: azure;
+  width: 100%;
+  background: #125394;
+  padding: 10px 0;
+  font-size: 33px;
+  padding-left: 30px;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding-top: 80px;
+  padding-left: 100px;
+  gap: 30px;
+}
+
+.user-card,
+.user-card1,
+.user-card2 {
+  position: relative;
+  width: 400px;
+  height: 500px;
+  margin-bottom: 30px;
+  padding: 20px;
+  border: 2px solid black;
+  box-shadow: 10px 10px 5px rgba(1, 40, 6, 0.589);
+}
+.user-card1 {
+  border: 2px dotted rgb(5, 5, 5);
+}
+
+.user-card2 {
+  border: 2px dashed rgb(3, 3, 3);
+}
+
+.user-card img,
+.user-card1 img,
+.user-card2 img {
+  width: 100%;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+.user-card h1,
+.user-card1 h1,
+.user-card2 h1 {
+  font-size: 22px;
+  margin-bottom: 5px;
+}
+
+.user-card h5,
+.user-card1 h5,
+.user-card2 h5 {
+  font-size: 18px;
+  margin-bottom: 5px;
+}
