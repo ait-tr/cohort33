@@ -1,0 +1,111 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+.page-wrapper {
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding: 20px 30px;
+  background: #125394;
+  color: azure;
+  box-shadow: 0 2px 4px rgba(155, 29, 10, 0.991);
+}
+
+main {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  padding: 80px 40px;
+  gap: 30px;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+.user-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 400px;
+  height: 500px;
+  padding: 30px;
+  padding: 40px;
+  /* margin-right: 30px; */
+  border: 2px solid black;
+  box-shadow: 10px 10px 5px rgba(1, 40, 6, 0.589);
+}
+
+.user-card img {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.user-card h1 {
+  font-size: 22px;
+  margin-bottom: 5px;
+}
+
+.user-card h5 {
+  font-size: 18px;
+  margin-bottom: 5px;
+}
+
+footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: azure;
+  width: 100%;
+  background: #125394;
+  padding: 30px 60px;
+  font-size: 20px;
+}
+
+.contact-container {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.header-link {
+  color: azure;
+  /* margin-right: 30px; */
+  /* Убирает стандартные стили для некоторых HTML элементов: в данном случае для тега a */
+  /* text-decoration: none; */
+}
+
+nav {
+  display: flex;
+  gap: 30px;
+}
+
+.logo {
+  font-size: 50px;
+}

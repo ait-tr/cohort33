@@ -1,0 +1,86 @@
+* {
+  box-sizing: border-box;
+}
+
+body,
+html {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.containers-wrapper {
+  /* display: flex - Контейнер становится flex и теперь мы можем управлять элементами которые находятся в нем по технологии flexbox */
+  display: flex;
+  /*  flex-direction - Указывает направление по которому у нас будут распологаться элементы */
+  flex-direction: row;
+  /* flex-wrap - вляет на то будет ли у нас переносится контент на новую строку или нет */
+  /* flex-wrap: wrap; */
+
+  /* flex-flow: row wrap; - совмещает 2 свойства flex-direction и flex-wrap */
+  /* justify-content - влияет на расположение элементов по main оси */
+  justify-content: center;
+  /* align-items - влияет на расположение элементов по main оси */
+  align-items: center;
+  /* align-content - Это свойство выравнивает линии в пределах flex контейнера, когда есть дополнительное пространство на поперечной оси */
+  /* align-content: center; */
+  gap: 30px;
+  /* min-height: 100%; */
+  min-height: 100%;
+  width: 100%;
+  background-color: azure;
+  padding: 30px;
+}
+
+.container {
+  /* margin-right: 30px; */
+  margin-bottom: 30px;
+  font-size: 40px;
+  font-weight: bold;
+  color: white;
+  /* display: inline-block; */
+}
+
+.container1 {
+  /* order: 2; */
+  /* align-self: flex-end; */
+  flex-grow: 1;
+  flex-shrink: 1;
+  flex-basis: 200px;
+  /* width: 200px; */
+  height: 200px;
+  background-color: red;
+}
+
+.container2 {
+  /* order: 4; */
+  /* order: -1; */
+  flex-grow: 1;
+  flex-shrink: 50;
+  flex-basis: 200px;
+  /* width: 200px; */
+  height: 200px;
+  background-color: blue;
+}
+
+.container3 {
+  /* order: 3; */
+  /* align-self: flex-start; */
+  flex-basis: 200px;
+  flex-shrink: 50;
+  flex-grow: 1;
+  /* width: 200px; */
+  height: 200px;
+  background-color: blueviolet;
+}
+
+.container4 {
+  /* align-self: stretch; */
+  /* order: 1; */
+  flex-grow: 1;
+  flex-shrink: 50;
+  flex-basis: 200px;
+  /* width: 200px; */
+  height: 200px;
+  background-color: yellow;
+}
