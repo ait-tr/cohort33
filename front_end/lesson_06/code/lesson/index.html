@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./styles.css" type="text/css" />
+    <title>Lesson 6</title>
+  </head>
+  <body>
+    <div class="page-wrapper">
+      <div class="form-container">
+        <h2>Форма регистрации</h2>
+        <form method="post" autocomplete="off">
+          <!-- <input disabled value="Pavel" />
+          <input autofocus placeholder="Введите имя" />
+          <input type="checkbox" />
+          <input type="date" lang="en" />
+          <input type="email" />
+          <input type="file" />
+          <input type="radio" />
+          <input type="tel" />
+          <input type="password" /> -->
+          <!-- <textarea placeholder="Напишите ваш пост тут"></textarea>
+          <select name="animals">
+            <option>Тигр</option>
+            <option>Лев</option>
+            <option>Леопард</option>
+          </select>
+          <label for="password">Пароль</label>
+          <input id="password" placeholder="Введите пароль" type="password" />
+          <button type="submit">отпрваить даные</button> -->
+          <div class="form-group">
+            <label for="user_name">Имя пользователя:</label>
+            <input
+              required
+              type="text"
+              placeholder="Введите имя"
+              name="user_name"
+              id="user_name"
+            />
+          </div>
+          <div class="form-group">
+            <label for="surname">Фамилия пользователя:</label>
+            <input
+              required
+              type="text"
+              placeholder="Введите фамилию"
+              name="surname"
+              id="surname"
+            />
+          </div>
+          <div class="form-group">
+            <label for="email">Email:</label>
+            <input
+              type="email"
+              placeholder="Введите email"
+              name="email"
+              id="email"
+            />
+          </div>
+          <div class="form-group">
+            <label for="gender">Пол:</label>
+            <select name="gender" id="gender">
+              <option value="мужчина">Мужской</option>
+              <option value="женщина">Женский</option>
+            </select>
+          </div>
+          <div class="form-group">
+            <label for="message">Сообщение:</label>
+            <textarea name="message" rows="4" id="message">Сообщение:</textarea>
+          </div>
+          <button type="submit">Отправить</button>
+        </form>
+      </div>
+    </div>
+  </body>
+</html>
