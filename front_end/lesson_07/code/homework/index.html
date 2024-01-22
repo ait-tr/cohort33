@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./styles.css" type="text/css" />
+    <title>Homework 6</title>
+  </head>
+  <body>
+    <div class="page-wrapper">
+      <form class="form-container">
+        <h1>Contact us</h1>
+        <div class="form-element">
+          <label for="user_name">Name*</label>
+          <input
+            placeholder="Your name"
+            type="text"
+            required
+            name="user_name"
+            id="user_name"
+          />
+        </div>
+        <div class="form-element">
+          <label for="phone">Phone*</label>
+          <input placeholder="Your phone number" type="tel" id="phone" required />
+        </div>
+        <div class="form-element">
+          <label for="email">Email*</label>
+          <input required placeholder="Your working email" id="email" type="email" />
+        </div>
+        <div class="form-element">
+          <label for="location">Location</label>
+          <select name="location" id="location">
+            <option value="new_york">New York</option>
+            <option value="los_angeles">Los Angeles</option>
+            <option value="chicago">Chicago</option>
+            <option value="boston">Boston</option>
+          </select>
+        </div>
+        <div class="form-element">
+          <label for="message">Message:</label>
+          <textarea
+            name="message"
+            id="message"
+            placeholder="Your message"
+            required
+          ></textarea>
+        </div>
+        <div class="checkbox-contaner">
+          <input class="check" type="checkbox" id="checkbox" name="checkbox" />
+          <label for="checkbox">I agree</label>
+        </div>
+        <div class="button-container">
+          <button type="submit">SEND REQUEST</button>
+          <button type="reset">CLEAR FORM</button>
+        </div>
+      </form>
+    </div>
+  </body>
+</html>
