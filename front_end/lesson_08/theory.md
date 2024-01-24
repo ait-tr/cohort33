@@ -1,0 +1,2 @@
+### JS: JS: Expressions, Comparison operators, Loops, Arrays
+Ссылка на презентацию: [презентация](https://github.com/ait-tr/cohort33/blob/main/front_end/lesson_08/JS_Expressions_Comparison_operators_Loops_Arrays.pdf)

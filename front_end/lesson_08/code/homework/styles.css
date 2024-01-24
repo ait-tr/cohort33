@@ -1,0 +1,48 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul,
+li {
+  margin: 0;
+  padding: 0;
+}
+
+.page-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  background-color: bisque;
+}
+
+button {
+  font-size: 45px;
+  border-radius: 10px;
+  cursor: pointer;
+  background-color: azure;
+}
+
+/* Если использую такую стилистику для кнопки, то цвет не будет менятся */
+
+/* #button-sumbit {
+  background: linear-gradient(to right, lightcoral, gold);
+} */
+
+/* #button-sumbit:hover {
+  background: linear-gradient(to right, orchid, lightblue);
+} */
