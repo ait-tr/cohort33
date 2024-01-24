@@ -36,13 +36,3 @@ button {
   cursor: pointer;
   background-color: azure;
 }
-
-/* Если использую такую стилистику для кнопки, то цвет не будет менятся */
-
-/* #button-sumbit {
-  background: linear-gradient(to right, lightcoral, gold);
-} */
-
-/* #button-sumbit:hover {
-  background: linear-gradient(to right, orchid, lightblue);
-} */
