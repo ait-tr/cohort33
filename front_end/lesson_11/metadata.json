@@ -1,0 +1,12 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "./code/lesson/array-methods/index.js",
+    "./code/lesson/object-methods/index.js",
+    "./code/homework/index.js"
+  ],
+  "video": "",
+  "etc": ""
+}
