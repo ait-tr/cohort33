@@ -1,0 +1,69 @@
+* {
+  box-sizing: border-box;
+}
+
+body,
+html {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: whitesmoke;
+}
+
+.burger-app {
+  max-width: 350px;
+  margin: 50px auto;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 22px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.ingredients-buttons button {
+  font-size: 16px;
+  padding: 10px 20px;
+  margin: 5px;
+  cursor: pointer;
+  background-color: #5d8ec7;
+  color: white;
+  border: none;
+  border-radius: 22px;
+}
+
+.ingredients-buttons button:hover {
+  background-color: #a2c8eb;
+}
+
+.ingredients-list {
+  margin-top: 20px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  font-size: 18px;
+  margin-bottom: 5px;
+}
+
+.clear-button {
+  font-size: 18px;
+  padding: 10px 20px;
+  margin-top: 10px;
+  cursor: pointer;
+  background-color: #ff4d4d;
+  color: rgb(247, 247, 247);
+  border: none;
+  border-radius: 22px;
+}
+
+.clear-button:hover {
+  background-color: #f8a6a6;
+}

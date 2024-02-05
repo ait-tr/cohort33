@@ -1,0 +1,16 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "./code/lesson/setTimeout/index.js",
+    "./code/lesson/setInterval/index.js",
+    "./code/lesson/promise/index.js",
+    "./code/lesson/promise/index.html",
+    "./code/homework/styles.css",
+    "./code/homework/index.js",
+    "./code/homework/index.html"
+  ],
+  "video": "",
+  "etc": ""
+}
