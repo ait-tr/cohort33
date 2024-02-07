@@ -1,0 +1,7 @@
+{
+  "firstName": "John",
+  "lastName": "Johnson",
+  "age": 32,
+  "isAdmin": true,
+  "programLangs": ["Java", "JS", "Python"]
+}
