@@ -1,0 +1,17 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "./code/homework/indes.html",
+    "./code/homework/index.js",
+    "./code/homework/styles.css",
+    "./code/lesson/event-loop/index.js",
+    "./code/lesson/weather-app/index.html",
+    "./code/lesson/weather-app/index.js",
+    "./code/lesson/weather-app/pic 2.png",
+    "./code/lesson/weather-app/styles.css"
+  ],
+  "video": "",
+  "etc": ""
+}
