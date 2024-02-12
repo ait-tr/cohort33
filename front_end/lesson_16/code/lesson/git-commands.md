@@ -1,3 +1,4 @@
+```sh
 # склонировать репозиторий с сервера на свой компьютер
 
 git clone [url]
@@ -15,3 +16,4 @@ git checkout -b branch-name
 git add .
 git commit -m "message"
 git push
+```
