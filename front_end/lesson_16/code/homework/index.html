@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Weather app</title>
+    <link rel="stylesheet" href="./styles.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div id="root">
+      <header>
+        <h1>Weather App</h1>
+      </header>
+      <main id="main">
+        <div id="search-wrapper">
+          <input type="text" id="city-input" placeholder="Enter city name" />
+          <button id="search-button" type="button">Получить погоду</button>
+        </div>
+        <!-- отдельный load контейнер -->
+        <div id="load">Loading...</div>
+        <!-- Отдельный контейнер о погоде -->
+        <div id="weather-info-container">
+          <div class="info__flex">
+            <div class="info__item">
+              <p class="info__temp"></p>
+              <p id="weather-city" class="info__city"></p>
+            </div>
+            <div class="image-wrapper">
+              <img id="weather-icon" />
+            </div>
+          </div>
+        </div>
+        <!-- Отдельный Error Container -->
+        <div id="weather-error-container">
+          <p class="error__title"></p>
+          <p class="error__desc"></p>
+        </div>
+      </main>
+    </div>
+    <script src="./index.js" defer></script>
+  </body>
+</html>
