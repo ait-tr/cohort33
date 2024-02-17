@@ -1,0 +1,16 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "./code/Lesson18/Lesson18.jsx",
+    "./code/Lesson18/styles.css",
+    "./code/ProfileCard/data.js",
+    "./code/ProfileCard/ProfileCard.jsx",
+    "./code/ProfileCard/styles.css",
+    "./code/App.jsx",
+    "./code/App.css"
+  ],
+  "video": "",
+  "etc": ""
+}
