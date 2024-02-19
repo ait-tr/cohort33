@@ -1,0 +1,21 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "./code/App.jsx",
+    "./code/App.css",
+    "./code/LoginForm/styles.css",
+    "./code/LoginForm/LoginForm.jsx",
+    "./code/Lesson19/styles.css",
+    "./code/Lesson19/Lesson19.jsx",
+    "./code/Input/styles.css",
+    "./code/Input/Input.jsx",
+    "./code/Counter/styles.css",
+    "./code/Counter/Counter.jsx",
+    "./code/Button/styles.css",
+    "./code/Button/Button.jsx"
+  ],
+  "video": "",
+  "etc": ""
+}
