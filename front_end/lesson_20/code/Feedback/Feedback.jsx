@@ -17,9 +17,6 @@ function Feedback() {
     setLikes((prevValue) => {
       return prevValue + 1;
     });
-
-    // setLikes(likes + 1); // если likes === 0, тот в момент вызова, то likes === 0
-    // setLikes(likes + 1); // если likes === 1, тот в момент вызова, то likes === 0
   };
 
   // Создаем функцию, которая будет увеличивать dislikes на 1
