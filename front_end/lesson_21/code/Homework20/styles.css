@@ -1,0 +1,47 @@
+.homework20-wrapper {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  align-items: center;
+  justify-content: center;
+}
+
+.user-card {
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+  height: fit-content;
+  gap: 15px;
+  padding: 30px;
+  border: 1px solid rgb(105, 105, 246);
+  border-radius: 8px;
+}
+
+.card-title {
+  font-size: 30px;
+  color: blueviolet;
+  align-self: center;
+}
+
+.user-name {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.card-info-name {
+  font-weight: bold;
+}
+
+.card-info {
+  display: flex;
+  gap: 5px;
+  font-size: 20px;
+}
+
+.langs-list {
+  margin-left: 20px;
+}
+
+.program-lang {
+  font-size: 18px;
+}
