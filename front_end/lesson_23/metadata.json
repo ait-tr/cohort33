@@ -1,0 +1,33 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "./code/index.tsx",
+    "./code/App.tsx",
+    "./code/styles/GlobalStyles.tsx",
+    "./code/ProfileCard/types.ts",
+    "./code/ProfileCard/styles.ts",
+    "./code/ProfileCard/ProfileCard.tsx",
+    "./code/LoginForm/styles.ts",
+    "./code/LoginForm/LoginForm.tsx",
+    "./code/Lesson23/styles.ts",
+    "./code/Lesson23/Lesson23.tsx",
+    "./code/Input/types.ts",
+    "./code/Input/styles.ts",
+    "./code/Input/Input.tsx",
+    "./code/Homework22/styles.ts",
+    "./code/Homework22/Homework22.tsx",
+    "./code/Feedback/types.ts",
+    "./code/Feedback/styles.ts",
+    "./code/Feedback/Feedback.tsx",
+    "./code/Counter/types.ts",
+    "./code/Counter/styles.ts",
+    "./code/Counter/Counter.tsx",
+    "./code/Button/types.ts",
+    "./code/Button/styles.ts",
+    "./code/Button/Button.tsx"
+  ],
+  "video": "",
+  "etc": ""
+}
