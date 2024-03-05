@@ -1,0 +1,22 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "./code/App.tsx",
+    "./code/colors.ts",
+    "./code/LoginForm/types.ts",
+    "./code/LoginForm/styles.ts",
+    "./code/LoginForm/LoginForm.tsx",
+    "./code/Lesson25/styles.ts",
+    "./code/Lesson25/Lesson25.tsx",
+    "./code/Input/types.ts",
+    "./code/Input/styles.ts",
+    "./code/Input/Input.tsx",
+    "./code/Homework24/types.ts",
+    "./code/Homework24/styles.ts",
+    "./code/Homework24/Homework24.tsx"
+  ],
+  "video": "",
+  "etc": ""
+}
