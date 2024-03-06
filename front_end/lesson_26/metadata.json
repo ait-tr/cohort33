@@ -1,0 +1,25 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "./code/App.tsx",
+    "./code/pages/Users/Users.tsx",
+    "./code/pages/Users/styles.ts",
+    "./code/pages/Home/Home.tsx",
+    "./code/pages/About/About.tsx",
+    "./code/Layout/types.ts",
+    "./code/Layout/styles.ts",
+    "./code/Layout/Layout.tsx",
+    "./code/Input/types.ts",
+    "./code/Input/styles.ts",
+    "./code/Input/Input.tsx",
+    "./code/Homework25/Homework25.tsx",
+    "./code/Homework25/styles.ts",
+    "./code/EmployeeForm/EmployeeForm.tsx",
+    "./code/EmployeeForm/styles.ts",
+    "./code/EmployeeForm/types.ts"
+  ],
+  "video": "",
+  "etc": ""
+}
