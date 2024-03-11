@@ -1,0 +1,31 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "./code/Clients/components/Apple/Apple.tsx",
+    "./code/Clients/components/Apple/styles.ts",
+    "./code/Clients/components/Facebook/Facebook.tsx",
+    "./code/Clients/components/Facebook/styles.ts",
+    "./code/Clients/components/Sega/Sega.tsx",
+    "./code/Clients/components/Sega/styles.ts",
+    "./code/Clients/components/index.ts",
+    "./code/Clients/Clients.tsx",
+    "./code/Clients/styles.ts",
+    "./code/Layout/Layout.tsx",
+    "./code/Layout/styles.ts",
+    "./code/Layout/types.ts",
+    "./code/Lesson27/Content/Content.tsx",
+    "./code/Lesson27/Content/styles.ts",
+    "./code/Lesson27/Main/Main.tsx",
+    "./code/Lesson27/Main/styles.ts",
+    "./code/Lesson27/Main/types.ts",
+    "./code/Lesson27/Section/Section.tsx",
+    "./code/Lesson27/Section/styles.ts",
+    "./code/Lesson27/Lesson27.tsx",
+    "./code/Lesson27/styles.ts",
+    "./code/App.tsx"
+  ],
+  "video": "",
+  "etc": ""
+}
