@@ -1,0 +1,23 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "./code/App.tsx",
+    "./code/Weather/Weather.tsx",
+    "./code/Weather/styles.ts",
+    "./code/Weather/components/WeatherInfo/WeatherInfo.tsx",
+    "./code/Weather/components/WeatherError/WeaherError.tsx",
+    "./code/Homework27/styles.ts",
+    "./code/Homework27/Homework27.tsx",
+    "./code/Homework27/components/index.ts",
+    "./code/Homework27/components/Message/styles.ts",
+    "./code/Homework27/components/Message/Message.tsx",
+    "./code/Homework27/components/Card/Card.tsx",
+    "./code/Homework27/components/Card/styles.ts",
+    "./code/Homework27/components/BlogManagement/BlogManagement.tsx",
+    "./code/Homework27/components/BlogManagement/styles.ts"
+  ],
+  "video": "",
+  "etc": ""
+}
