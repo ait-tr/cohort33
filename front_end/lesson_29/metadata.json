@@ -1,0 +1,19 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "./code/Weather/components/WeatherError/styles.ts",
+    "./code/Weather/components/WeatherError/types.ts",
+    "./code/Weather/components/WeatherError/WeaherError.tsx",
+    "./code/Weather/components/WeatherInfo/styles.ts",
+    "./code/Weather/components/WeatherInfo/types.ts",
+    "./code/Weather/components/WeatherInfo/WeatherInfo.tsx",
+    "./code/Weather/styles.ts",
+    "./code/Weather/types.ts",
+    "./code/Weather/Weather.tsx",
+    "./code/App.tsx"
+  ],
+  "video": "",
+  "etc": ""
+}
