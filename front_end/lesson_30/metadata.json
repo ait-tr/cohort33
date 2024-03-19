@@ -1,0 +1,25 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "./code/main.tsx",
+    "./code/App.tsx",
+    "./code/store/store.ts",
+    "./code/store/hooks.ts",
+    "./code/store/createAppSlice.ts",
+    "./code/Input/types.ts",
+    "./code/Input/styles.ts",
+    "./code/Input/Input.tsx",
+    "./code/Homework29/Homework29.tsx",
+    "./code/Homework29/styles.ts",
+    "./code/Counter/types.ts",
+    "./code/Counter/styles.ts",
+    "./code/Counter/Counter.tsx",
+    "./code/Button/types.ts",
+    "./code/Button/styles.ts",
+    "./code/Button/Button.tsx"
+  ],
+  "video": "",
+  "etc": ""
+}
