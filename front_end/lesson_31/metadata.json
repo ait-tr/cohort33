@@ -1,0 +1,19 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "./code/App.tsx",
+    "./code/store/store.ts",
+    "./code/store/hooks.ts",
+    "./code/store/createAppSlice.ts",
+    "./code/store/redux/counter/types.ts",
+    "./code/store/redux/counter/counterSlice.ts",
+    "./code/Homework29/styles.ts",
+    "./code/Homework29/Homework29.tsx",
+    "./code/Counter/styles.ts",
+    "./code/Counter/Counter.tsx"
+  ],
+  "video": "",
+  "etc": ""
+}
