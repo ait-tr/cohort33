@@ -1,0 +1,28 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "./code/App.tsx",
+    "./code/store/store.ts",
+    "./code/store/hooks.ts",
+    "./code/store/createAppSlice.ts",
+    "./code/store/redux/users/usersSlice.ts",
+    "./code/store/redux/users/types.ts",
+    "./code/store/redux/feedback/types.ts",
+    "./code/store/redux/feedback/feedbackSlice.ts",
+    "./code/pages/UsersApp/Users/Users.tsx",
+    "./code/pages/UsersApp/Users/styles.ts",
+    "./code/pages/UsersApp/Layout/types.ts",
+    "./code/pages/UsersApp/Layout/styles.ts",
+    "./code/pages/UsersApp/Layout/Layout.tsx",
+    "./code/pages/UsersApp/Home/styles.ts",
+    "./code/pages/UsersApp/Home/Home.tsx",
+    "./code/Homework31/styles.ts",
+    "./code/Homework31/Homework32.tsx",
+    "./code/Feedback/styles.ts",
+    "./code/Feedback/Feedback.tsx"
+  ],
+  "video": "",
+  "etc": ""
+}
