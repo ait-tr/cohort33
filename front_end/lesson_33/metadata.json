@@ -1,0 +1,24 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "./code/App.tsx",
+    "./code/store/createAppSlice.ts",
+    "./code/store/users/usersSlice.ts",
+    "./code/store/users/types.ts",
+    "./code/store/randomJoke/types.ts",
+    "./code/store/randomJoke/randomJokeSlice.ts",
+    "./code/RandomJoke/styles.ts",
+    "./code/RandomJoke/RandomJoke.tsx",
+    "./code/pages/UsersApp/Users/styles.ts",
+    "./code/pages/UsersApp/Users/Users.tsx",
+    "./code/pages/UsersApp/Layout/types.ts",
+    "./code/pages/UsersApp/Layout/styles.ts",
+    "./code/pages/UsersApp/Layout/Layout.tsx",
+    "./code/pages/UsersApp/Home/styles.ts",
+    "./code/pages/UsersApp/Home/Home.tsx"
+  ],
+  "video": "",
+  "etc": ""
+}
