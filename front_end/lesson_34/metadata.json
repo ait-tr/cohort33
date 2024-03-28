@@ -1,0 +1,19 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "./code/createAppSlice.ts",
+    "./code/App.tsx",
+    "./code/store/randomUser/types.ts",
+    "./code/store/randomUser/randomUserSlice.ts",
+    "./code/store/catFacts/types.ts",
+    "./code/store/catFacts/catFactsSlice.ts",
+    "./code/RandomUser/styles.ts",
+    "./code/RandomUser/RandomUser.tsx",
+    "./code/CatFacts/styles.ts",
+    "./code/CatFacts/CatFacts.tsx"
+  ],
+  "video": "",
+  "etc": ""
+}
