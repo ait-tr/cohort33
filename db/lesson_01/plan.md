@@ -36,7 +36,7 @@
 знакомимся с таблицами - их структурой и содержимым.
 
 **Примеры и задания:**
-см. файл requests.md   
+см. файл requests.md  в разделе code
 
 https://github.com/ait-tr/cohort33/blob/43605302c1114a0199d3ea569203e223140d6b08/db/lesson_01/code/requests.md
 
