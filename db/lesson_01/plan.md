@@ -1,3 +1,63 @@
+# Lesson plan No. 1 April 03, 2024
+
+1. Objectives of the course and what you will be able to do after the course:
+
+**Course Objectives:**
+- understanding the role and functions - why are DBMSs needed, what are they used for?
+- ability to use - how and in what ways to create and connect?
+- basics of the sql query language - how to obtain the necessary information (samples) from the database?
+- practical skills for use in projects.
+
+**Skills after the course:**
+- installation of the necessary software, creation and connection to the DBMS;
+- modeling, design of tables and relationships;
+- generation of sql queries.
+
+2. Client-server architecture and the place of the DBMS in it - we draw a diagram.
+
+3. Basic functions of a DBMS - see theory.
+
+4. Required minimum theoretical knowledge - see theory:
+   - Data models
+   - Basic data structures
+   - Degrees of data abstraction
+   - Data types
+
+5. CRUD concept and data aggregation - see theory.
+
+6. Tables, fields, records - see theory.
+
+7. SQL queries - practice.
+
+Our "testing ground" for today:
+
+[Sandbox (online store)](https://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all)
+Let's get acquainted with the tables - their structure and contents.
+
+**Examples and tasks:**
+see the requests.md file in the code section
+
+https://github.com/ait-tr/cohort33/blob/43605302c1114a0199d3ea569203e223140d6b08/db/lesson_01/code/requests.md
+
+**Tasks:**
+Selections by fields:
+Display data on suppliers from a specific country, for example Japan, USA
+Output city and postal code of clients from `France`
+Remove clients from the country `Germany` to the city `Berlin`
+
+Selections with logical operations:
+Display products with prices from `50` to `100` EUR
+Remove clients from `Germany` and `France`
+Withdraw clients except those from `UK` and `USA`
+Print supplier phone numbers from `UK` and `Brazil`
+
+
+Sampling with sorting and output limitation
+Display products from `5` category by ascending price
+Display the three most expensive products
+Display the name and cost of one of the most expensive goods from category `1`
+
+--------------------------------------------------------------
 
 # План занятия №1 03 апреля 2024 г.
 
