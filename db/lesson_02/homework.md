@@ -13,5 +13,5 @@ Create tables with your schema from task 1 using Beekeepper, reflect the relatio
 Пример: https://drawsql.app/teams/oleksandr-derkach/diagrams/brainstorm
 
 ## Задание 2
-Создайте таблицы со своей схемой из задания 1 с помощью Beekeepper, отразите отношения между ними, задав внешние и первичные ключи.
+Создайте таблицы со своей схемой из задания 1 с помощью Beekeepper, отразите отношения между ними, задав первичные и внешние ключи.
 
