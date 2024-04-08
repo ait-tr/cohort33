@@ -161,7 +161,7 @@ CREATE USER test_user WITH PASSWORD 'qwerty';
 ## SQL: создание базы данных
 
 ```sql
-CREATE DATABASE test_db OWNER test_user
+CREATE DATABASE test_db OWNER test_user;
 ```
 
 Любая база должна быть создана, прежде чем к ней можно будет подключиться.
