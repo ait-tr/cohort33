@@ -1,31 +1,59 @@
+Homework:
+
+    Explore articles:
+    https://skillbox.ru/media/code/mongodb-chto-eto-za-subd-plyusy-minusy-podvodnye-kamni/
+
+    https://habr.com/ru/companies/latera/articles/280196/
+
+Questions:
+- what applications was MongoDB developed for?
+
+- For which applications is it beneficial to use MongoDB or analogues?
+
+- what are the main advantages of a document-oriented DBMS?
+
+- what is ACID and why is it needed? Is MongoDB ACID compliant?
+
+- What is MongoDB bad at? What's good with?
+
+- in what format is data stored in MongoDB?
+
+- what is the maximum document size?
+
+- For which applications is it beneficial to use RDBMS?
 
 
 --------------------------------------------------
 
-Разбиться на 3 группы.
-Реализовывать задания:
+Домашнее задание:
 
-- создать модель данных "Библиотека":
-    - книга
-    - жанр
-    - читатель
-    - аренда книг
+1. Повторить материал по презентациям:
+   **Презентации:**
+- Занятие 1
+  https://docs.google.com/presentation/d/1N9EdfzetGheLoXJEh1VgvzKGvnyiKsP4/edit#slide=id.p29
 
-- создать модель данных "Школа":
-    - студент
-    - преподаватель
-    - предмет
-    - курс
+- Занятие 2
+  https://docs.google.com/presentation/d/1fzZHuYstuUQWpUSYEOySYOht7xgIiF3_/edit#slide=id.g2bb3f954aca_0_170
 
-- создать модель данных "Каршеринг"
-    - автомобиль
-    - водитель
-    - регион
-    - сделка
 
-Шаг 1. Сделать модель в SQLdraw
-Шаг 2. Экспорт SQL-скриптов для создания таблиц
-Шаг 3. Создание БД и таблиц
-Шаг 4. Внесение данных
-Шаг 5. Сделать 5 запросов и получить выборкиљ
+2. Изучить статьи:
+   https://skillbox.ru/media/code/mongodb-chto-eto-za-subd-plyusy-minusy-podvodnye-kamni/
 
+   https://habr.com/ru/companies/latera/articles/280196/
+
+Подготовить ответы на вопросы:
+- для каких приложений разрабатывалась MongoDB?
+
+- для каких приложений выгодно использовать MongoDB или аналоги?
+
+- какие главные преимущества у документоориентированой СУБД?
+
+- что такое ACID и для чего это нужно? Соответствует ли MongoDB требованиям ACID?
+
+- с чем плохо справляется MongoDB? А с чем хорошо?
+
+- в каком формате хранятся данные в MongoDB?
+
+- каков максимальный размер документов?
+
+- для каких приложений выгодно использовать RDBMS?
