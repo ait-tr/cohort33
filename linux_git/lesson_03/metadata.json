@@ -3,10 +3,10 @@
   "theory": "theory.md",
   "homework": "homework.md",
   "code": [
-    "./code/commands.md",
-    "./code/index.html",
-    "./code/style.css",
-    "./code/.gitignore"
+    "code/commands.md",
+    "code/index.html",
+    "code/style.css",
+    "code/.gitignore"
   ],
   "video": "",
   "etc": ""

@@ -3,11 +3,11 @@
   "theory": "theory.md",
   "homework": "homework.md",
   "code": [
-    "./codes/index.html",
-    "./codes/style.css",
-    "./codes/readme.md",
-    "./codes/script.js",
-    "./codes/text.txt"
+    "codes/index.html",
+    "codes/style.css",
+    "codes/readme.md",
+    "codes/script.js",
+    "codes/text.txt"
   ],
   "video": "",
   "etc": ""

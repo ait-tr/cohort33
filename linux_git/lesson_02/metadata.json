@@ -3,9 +3,9 @@
   "theory": "theory.md",
   "homework": "homework.md",
   "code": [
-    "./code/index.html",
-    "./code/style.css",
-    "./code/readme.md"
+    "code/index.html",
+    "code/style.css",
+    "code/readme.md"
   ],
   "video": "",
   "etc": ""
